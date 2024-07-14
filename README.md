@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mubashir12-a/Mubashir12-a/blob/main/Github%20Banner.png)
 <h1 align="center">Hello 👋, I'm Mubashir Ahmad</h1>
-<h3 align="center">I am Front-end web-developer</h3>
+<h3 align="center">I am Front-end web-developer & Programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
