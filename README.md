@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on GitHub link below: <br> [https://github.com/Mubashir12-a](https://github.com/Mubashir12-a)
 
-- 💬 Ask me about **(HTML),(CSS),(JS)**
+- 💬 Ask me about **(HTML),(CSS),(JS),C**
 
 - 📫 Get In Touch: **ma2625645@gmail.com**
 
