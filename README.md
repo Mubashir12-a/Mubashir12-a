@@ -1,4 +1,4 @@
-![logo](https://github.com/Mubashir12-a/Mubashir12-a/blob/main/Github%20banner.png)
+![logo](https://github.com/Mubashir12-a/Mubashir12-a/blob/main/Github%20Banner.png)
 <h1 align="center">Hello 👋, I'm Mubashir Ahmad</h1>
 <h3 align="center">I am Front-end web-developer</h3>
 
