@@ -10,7 +10,7 @@
 <hr><hr><hr><hr><hr><hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a" alt="mubashir12-a" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a&theme=onestar" alt="mubashir12-a" />
   </a>
 </p>
 <h3 align="center">Connect with me:</h3>
