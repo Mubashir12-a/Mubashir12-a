@@ -26,37 +26,29 @@
   </a>
 </p>
 <hr>
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height="70"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/> 
+</p>
+
+
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir12-a&theme=neon&show_icons=true&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir12-a&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mubashir12-a&theme=neon&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashir12-a&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubashir12-a" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mubashir12-a&theme=dark&hide_border=true&border_radius=8.4" alt="GitHub Streak" />
 </p>
 
