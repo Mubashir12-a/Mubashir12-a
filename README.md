@@ -17,22 +17,22 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  oooooooo
+  &nbsp;
   <a href="https://www.linkedin.com/in/mubashir-ahmad-867b712a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
     <span style="margin-left: 10px; text-decoration: none; color: black;">LinkedIn</span>
   </a>
-  oooooooo
+  &ensp;
   <a href="https://www.facebook.com/profile.php?id=100047111971970&mibextid=ZbWKwL" target="blank" style="text-decoration: none; margin-right: 20px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
     <span style="margin-left: 10px; text-decoration: none; color: black;">Facebook</span>
   </a>
-  oooooooo
+  &ensp;
   <a href="https://instagram.com/0_._.mubashir._._0" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
     <span style="margin-left: 10px; text-decoration: none; color: black;">Instagram</span>
   </a>
-  oooooooo
+  &ensp;
 </p>
 
 
