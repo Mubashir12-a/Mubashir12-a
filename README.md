@@ -66,4 +66,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mubashir12-a&theme=dark&hide_border=true&border_radius=8.4" alt="GitHub Streak" />
 </p>
+<hr>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir12-a&theme=radical&hide_border=true" alt="GitHub status" />
+</p>
 
