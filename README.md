@@ -70,4 +70,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubashir12-a&theme=radical&hide_border=true" alt="GitHub status" />
 </p>
+<hr>
+<p align="center">
+  <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=26745471" alt="overflow status" />
+</p>
 
