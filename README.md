@@ -7,13 +7,14 @@
 👨‍💻 All of my projects are available on GitHub: Mubashir12-a <br>
 💬 Ask me about HTML, CSS, JS, C, Python<br>
 📫 Get in touch: ma2625645@gmail.com <br>
-<hr><hr><hr><hr><hr><hr>
+<hr><hr><hr><hr><hr><hr><br>
+<hr>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mubashir12-a&theme=onestar" alt="mubashir12-a" />
   </a>
 </p>
-
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
