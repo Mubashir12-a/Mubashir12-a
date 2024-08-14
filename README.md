@@ -44,20 +44,55 @@
 <hr>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h2 align="center">Languages and Tools:</h2>
+<!-- <p align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height="70"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/> 
+</p> -->
+
+- ### Languages:
+  ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=brightgreen)
+
+- ### Frameworks:
+  ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+
+- ### IDEs/Code Editors
+  ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Code-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=brightgreen)
+
+- ### OS:
+  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=brightgreen)
+
+- ### Tools
+  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+
+  
+<hr>
+
+
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=|&message=&color=ff&style=plastic&logo=realm&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
+<!-- <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/> -->
+<img src="https://img.shields.io/static/v1?label=|&message=ma2625645@gmail.com&color=24555f&style=plastic&logo=gmail&logo-color=white"/>
 </p>
+  
 
 
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubashir12-a&theme=neon&show_icons=true&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir12-a&hide=less&title_color=d13979&text_color=ffffff&icon_color=2bbc8a&bg_color=000000&langs_count=5" />
 </p>
 <hr>
 <p align="center">
