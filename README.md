@@ -81,10 +81,10 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=|&message=&color=ff&style=plastic&logo=realm&logo-color=white"/>
-<img src="https://img.shields.io/static/v1?label=|&message=&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-<img src="https://img.shields.io/static/v1?label=|&message=&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/> -->
+<img src="https://img.shields.io/static/v1?label=|&message=0_._.mubashir._._0&color=ff&style=plastic&logo=instagram&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=mubashir-ahmad&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=0_._.mubashir._._0&color=d18014&style=plastic&logo=threads&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=Mubashir Ahmad&color=24555f&style=plastic&logo=facebook&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=ma2625645@gmail.com&color=24555f&style=plastic&logo=gmail&logo-color=white"/>
 </p>
   
