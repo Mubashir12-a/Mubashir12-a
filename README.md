@@ -105,6 +105,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=26745471" alt="overflow status" />
+  <img src="https://www.codewars.com/users/Mubashir%20Ahmad/badges/large"/> <br>
+  <img src="https://www.codewars.com/users/Mubashir%20Ahmad/badges/small"/>
 </p>
 
