@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir12-a&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir12-a" /> </p>
 🌱 I’m currently learning C & React<br>
 👨‍💻 All of my projects are available on GitHub: Mubashir12-a <br>
-💬 Ask me about HTML, CSS, JS, C, Python<br>
+💬 Ask me about HTML, CSS, JS, C, Python, React<br>
 📫 Get in touch: ma2625645@gmail.com <br>
 <hr><hr><hr><hr><hr><hr><br>
 <hr>
