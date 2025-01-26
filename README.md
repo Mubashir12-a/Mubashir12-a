@@ -101,7 +101,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir12-a&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D alt="Github Streak/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir12-a&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D />
 </p>
 <hr>
 <p align="center">
