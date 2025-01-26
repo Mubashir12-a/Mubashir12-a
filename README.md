@@ -100,8 +100,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mubashir12-a&theme=neon&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
 </p>
 <hr>
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=mubashir12-a)](https://git.io/streak-stats)
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=Mubashir12-a&theme=dark&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 </p>
 <hr>
 <p align="center">
