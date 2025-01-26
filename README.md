@@ -101,7 +101,7 @@
 </p>
 <hr>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mubashir12-a)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mubashir12-a)](https://git.io/streak-stats)
 </p>
 <hr>
 <p align="center">
