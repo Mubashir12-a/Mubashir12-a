@@ -93,7 +93,7 @@
 </p>
 <hr>
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Mubashir12-a&theme=dark&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=mubashir12-a&theme=dark&border_radius=50&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
 </p>
 <hr>
 <p align="center">
