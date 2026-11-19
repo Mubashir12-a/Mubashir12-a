@@ -1,13 +1,14 @@
 ![logo](https://github.com/Mubashir12-a/Mubashir12-a/blob/main/Github%20Banner.png)
 <h1 align="center">Hello 👋, I'm Mubashir Ahmad</h1>
 <h2 align="center">Learner</h2>
-<h3 align="center">Developer & Programmer</h3>
+<h3 align="center">React Developer & Programmer</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashir12-a&label=Profile%20views&color=0e75b6&style=flat" alt="mubashir12-a" /> </p>
-🌱 I’m currently learning JAVA & React<br>
+🌱 I’m currently learning Node & React<br>
 👨‍💻 All of my projects are available on GitHub: Mubashir12-a <br>
-💬 Ask me about HTML, CSS, JS, C, Python, React, JAVA<br>
+💬 Ask me about JS, React, tailwind, C, Python, JAVA <br>
+💻 Worked with: Cloudflare, Supabase, MongoAtlas, Render, Resend, Git etc
 📫 Get in touch: ma2625645@gmail.com <br>
 <hr><hr><hr><hr><hr><hr><br>
 <hr>
