@@ -8,7 +8,7 @@
 🌱 I’m currently learning Node & React<br>
 👨‍💻 All of my projects are available on GitHub: Mubashir12-a <br>
 💬 Ask me about JS, React, tailwind, C, Python, JAVA <br>
-💻 Worked with: Cloudflare, Supabase, MongoAtlas, Render, Resend, Git etc
+💻 Worked with: Cloudflare, Supabase, MongoAtlas, Render, Resend, Git etc <br>
 📫 Get in touch: ma2625645@gmail.com <br>
 <hr><hr><hr><hr><hr><hr><br>
 <hr>
@@ -53,15 +53,19 @@
   ![](https://img.shields.io/badge/Web-Python-informational?style=flat&logo=python&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/DS-C-informational?style=flat&logo=c&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/DSA-C++-informational?style=flat&logo=cpp&logoColor=white&color=brightgreen)
-  ![](https://img.shields.io/badge/Primary-Java-informational?style=flat&logo=Java&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Java-Java-informational?style=flat&logo=Java&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/React.js-React.js-informational?style=flat&logo=React.js&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Node.js-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=brightgreen)
 
 - ### Frameworks:
-  ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
-  ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/SASS-SASS-informational?style=flat&logo=sass&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/BS-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Tailwind-Tailwind-informational?style=flat&logo=Tailwind&logoColor=white&color=brightgreen)
 
 - ### IDEs/Code Editors
   ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
-  ![](https://img.shields.io/badge/Code-Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Editor-Antigravity-informational?style=flat&logo=visualstudio&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat&logo=visualstudio&logoColor=white&color=brightgreen)
 
 - ### OS:
   ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=brightgreen)
@@ -69,6 +73,13 @@
 - ### Tools
   ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
   ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+  
+- ### Familiar AI Models
+  ![](https://img.shields.io/badge/AI-ChatGPT-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/AI-Gemini-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/AI-Claude-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/AI-Kimi-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
+  ![](https://img.shields.io/badge/AI-DeepSeek-informational?style=flat&logo=gnu-bash&logoColor=white&color=brightgreen)
 
   
 <hr>
@@ -78,7 +89,6 @@
 <img src="https://img.shields.io/static/v1?label=|&message=0_._.mubashir._._0&color=ff&style=plastic&logo=instagram&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=mubashir-ahmad&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=0_._.mubashir._._0&color=d18014&style=plastic&logo=threads&logo-color=white"/>
-<img src="https://img.shields.io/static/v1?label=|&message=Mubashir Ahmad&color=24555f&style=plastic&logo=facebook&logo-color=white"/>
 <img src="https://img.shields.io/static/v1?label=|&message=ma2625645@gmail.com&color=24555f&style=plastic&logo=gmail&logo-color=white"/>
 </p>
   
